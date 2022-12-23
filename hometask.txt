@@ -1,0 +1,16 @@
+They have not differance, only that demo it is another branch, but after all merges they are equal.
+9 commits.
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge boots in boots_buttons
+8. merge buttons in boots_buttons
+9. Merge hat
+
+И будет 10 коммитов с этим.
+Так как закомичу этот файл
+
+10. Add hometask.txt
